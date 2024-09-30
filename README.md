@@ -16,6 +16,6 @@ Atualmente sou **Analista de Negócio na Oxygeni Dit** e estou em formação com
 Estou sempre aberto a novas conexões e colaborações!
 <div> 
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/leonardo-ribeiro-318169226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/leonardo-ribeiro96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
